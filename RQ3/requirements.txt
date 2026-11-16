@@ -1,0 +1,8 @@
+# dependencies for experiment 3
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+huggingface_hub
+pandas
+numpy
